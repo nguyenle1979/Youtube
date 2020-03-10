@@ -1,0 +1,83 @@
+HOME_TC_001_Searching a video.
+
+1. Open Youtube homepage.
+Youtube home page is opened showing a list of Recommended video.
+
+2. Click "Search" button.
+Page is refreshed showing new video.
+
+3. Input a search string to "Search" text box "computer". Click "Search" button.
+System show search result page with videos contains "computer" in name.
+
+4. Close the browser.
+The browser is closed.
+
+HOME_TC_002_Openning other YouTube pages from Home page.
+
+1. Open Youtube homepage.
+Youtube home page is opened showing a list of Recommended video.
+
+2. Click "Home" on the main menu on the left.
+Page is refresed showing new video.
+
+3. Click "Trending" on the main menu.
+"Trending" page is opened.
+
+4. Click "Subscriptions" on the main menu.
+"Subscriptions" page is opened.
+
+5. Click "Library" on the main menu.
+"Library" page is opened.
+
+6. Click "History" on the main menu.
+"History" page is opened.
+
+7. Close the browser.
+The browser is closed.
+
+PRIMARY_TC_001_Openning a video from Home page.
+
+1. Open Youtube homepage.
+Youtube home page is opened showing a list of Recommended video.
+
+2. Click a random video in Home page to open it.
+System opens a new page to play the video.
+
+3. Press K from keyboard.
+System pauses the video.
+
+4. Press K again.
+System continues playing the video.
+
+5. Click "Fullscreen" button.
+System plays the video in fullscreen mode.
+
+6. Click "F" from keyboard.
+System exits the fullscreen mode.
+
+7. Close the browser.
+The browser is closed.
+
+PRIMARY_TC_002_Playing next video.
+
+1. Open Youtube homepage.
+Youtube home page is opened showing a list of Recommended video.
+
+2. Click a random video in Home page to open it.
+System opens a new page to play the video.
+
+3. Press "End" from keyboard.
+System skips to the end of playing video.
+After a few second, next video in the list is played.
+
+4. Click "Settings" button. Set the Quality is "480p" for the playing video.
+System plays the video in 480p.
+
+5. Click "Settings" button. Set the Playback peed is "0.5" for the playing video.
+System plays the video in half speed.
+
+6. Click "Back" button on the web browser.
+System comeback to previous page, showing the previous video.
+
+7. Close the browser.
+The browser is closed.

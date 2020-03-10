@@ -1,0 +1,101 @@
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mHOME_TC_001 (step 1) is being tested ...[0m
+[0;32mPassed: HOME_TC_001 (step 1) The tab [YouTube] is opened successfully.[0m
+[0;32mHOME_TC_001 (step 1) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mHOME_TC_001 (step 2) is being tested ...[0m
+[0;32mPassed: HOME_TC_001 (step 2) The tab [YouTube] is opened successfully.[0m
+[0;32mPassed: HOME_TC_001 (step 2) Screen Shot are not fuzzy-equal.[0m
+[0;32mHOME_TC_001 (step 2) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mHOME_TC_001 (step 3) is being tested ...[0m
+[0;32mPassed: HOME_TC_001 (step 3) There is a string [computer] in the video title of Search Result[0m
+[0;32mHOME_TC_001 (step 3) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mHOME_TC_001 (step 4) is being tested ...[0m
+[0;32mPassed: HOME_TC_001 (step 4) The browser is closed.[0m
+[0;32mHOME_TC_001 (step 4) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mHOME_TC_002 (step 1) is being tested ...[0m
+[0;32mPassed: HOME_TC_002 (step 1) The tab [YouTube] is opened successfully.[0m
+[0;32mHOME_TC_002 (step 1) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mHOME_TC_002 (step 2) is being tested ...[0m
+[0;32mPassed: HOME_TC_002 (step 2) The tab [YouTube] is opened successfully.[0m
+[0;32mPassed: HOME_TC_002 (step 2) Screen Shot are not fuzzy-equal.[0m
+[0;32mHOME_TC_002 (step 2) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mHOME_TC_002 (step 3) is being tested ...[0m
+[0;32mPassed: HOME_TC_002 (step 3) The tab [Trending] is opened successfully.[0m
+[0;32mHOME_TC_002 (step 3) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mHOME_TC_002 (step 4) is being tested ...[0m
+[0;32mPassed: HOME_TC_002 (step 4) The tab [Subscriptions] is opened successfully.[0m
+[0;32mHOME_TC_002 (step 4) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mHOME_TC_002 (step 5) is being tested ...[0m
+[0;32mPassed: HOME_TC_002 (step 5) The tab [Library] is opened successfully.[0m
+[0;32mHOME_TC_002 (step 5) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mHOME_TC_002 (step 6) is being tested ...[0m
+[0;32mPassed: HOME_TC_002 (step 6) The Url contains [history] as expected.[0m
+[0;32mHOME_TC_002 (step 6) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mHOME_TC_002 (step 7) is being tested ...[0m
+[0;32mPassed: HOME_TC_002 (step 7) The browser is closed.[0m
+[0;32mHOME_TC_002 (step 7) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mPRIMARY_TC_001 (step 1) is being tested ...[0m
+[0;32mPassed: PRIMARY_TC_001 (step 1) The tab [YouTube] is opened successfully.[0m
+[0;32mPRIMARY_TC_001 (step 1) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mPRIMARY_TC_001 (step 2) is being tested ...[0m
+[0;32mPassed: PRIMARY_TC_001 (step 2)  The object [byMainVideoContainer_Primary] Exist.[0m
+[0;32mPRIMARY_TC_001 (step 2) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mPRIMARY_TC_001 (step 3) is being tested ...[0m
+[0;32mPassed: PRIMARY_TC_001 (step 3) Screen Shot are fuzzy-equal.[0m
+[0;32mPRIMARY_TC_001 (step 3) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mPRIMARY_TC_001 (step 4) is being tested ...[0m
+[0;32mPassed: PRIMARY_TC_001 (step 4) File deleted successfully[0m
+[0;32mPassed: PRIMARY_TC_001 (step 4) Screen Shot are not fuzzy-equal.[0m
+[0;32mPRIMARY_TC_001 (step 4) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mPRIMARY_TC_001 (step 5) is being tested ...[0m
+[0;32mPassed: PRIMARY_TC_001 (step 5) The video is playing in fullscreen mode.[0m
+[0;32mPRIMARY_TC_001 (step 5) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mPRIMARY_TC_001 (step 6) is being tested ...[0m
+[0;32mPassed: PRIMARY_TC_001 (step 6) The video is not playing in fullscreen mode.[0m
+[0;32mPRIMARY_TC_001 (step 6) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mPRIMARY_TC_001 (step 7) is being tested ...[0m
+[0;32mPassed: PRIMARY_TC_001 (step 7) The browser is closed.[0m
+[0;32mPRIMARY_TC_001 (step 7) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mPRIMARY_TC_002 (step 1) is being tested ...[0m
+[0;32mPassed: PRIMARY_TC_002 (step 1) The tab [YouTube] is opened successfully.[0m
+[0;32mPRIMARY_TC_002 (step 1) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mPRIMARY_TC_002 (step 2) is being tested ...[0m
+[0;32mPassed: PRIMARY_TC_002 (step 2)  The object [byMainVideoContainer_Primary] Exist.[0m
+[0;32mPRIMARY_TC_002 (step 2) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mPRIMARY_TC_002 (step 3) is being tested ...[0m
+[0;32mPassed: PRIMARY_TC_002 (step 3) The playing video has a correct title [Modern Food Processing Technology with Cool Automatic Machines That Are At Another Level Part 4].[0m
+[0;32mPRIMARY_TC_002 (step 3) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mPRIMARY_TC_002 (step 4) is being tested ...[0m
+[0;32mPRIMARY_TC_002 (step 4) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mPRIMARY_TC_002 (step 5) is being tested ...[0m
+[0;32mPRIMARY_TC_002 (step 5) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mPRIMARY_TC_002 (step 6) is being tested ...[0m
+[0;32mPassed: PRIMARY_TC_002 (step 6) The playing video has a correct title [Food Industry Machines That Are At Another Level !].[0m
+[0;32mPRIMARY_TC_002 (step 6) has been tested.[0m
+[0;32m-------------------------------------------------------------------------------------------------------[0m
+[0;32mPRIMARY_TC_002 (step 7) is being tested ...[0m
+[0;32mPassed: PRIMARY_TC_002 (step 7) The browser is closed.[0m
+[0;32mPRIMARY_TC_002 (step 7) has been tested.[0m

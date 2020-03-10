@@ -1,0 +1,7 @@
+Passes: test case pass
+Failed: test case fail.
+Warning: test case warning
+Info: test case info
+Fatal: test case fatal
+Nothing: test case nothing
+

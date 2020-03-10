@@ -1,0 +1,3 @@
+Comparing files D:\TEMP\test1.txt and D:\TEMP\TEST2.TXT
+FC: no differences encountered
+

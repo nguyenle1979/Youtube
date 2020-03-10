@@ -1,0 +1,74 @@
+
+Host Name:                 NGUYENLEPC
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.18363 N/A Build 18363
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          NguyenLe
+Registered Organization:   
+Product ID:                00330-80000-00000-AA257
+Original Install Date:     8/5/2019, 11:27:41 PM
+System Boot Time:          2/12/2020, 4:16:56 PM
+System Manufacturer:       HP
+System Model:              ProLiant DL160 Gen8
+System Type:               x64-based PC
+Processor(s):              2 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 45 Stepping 7 GenuineIntel ~2694 Mhz
+                           [02]: Intel64 Family 6 Model 45 Stepping 7 GenuineIntel ~2694 Mhz
+BIOS Version:              HP J03, 5/24/2019
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     65,373 MB
+Available Physical Memory: 58,424 MB
+Virtual Memory: Max Size:  75,101 MB
+Virtual Memory: Available: 65,753 MB
+Virtual Memory: In Use:    9,348 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\NGUYENLEPC
+Hotfix(s):                 18 Hotfix(s) Installed.
+                           [01]: KB4515871
+                           [02]: KB4503308
+                           [03]: KB4506472
+                           [04]: KB4508433
+                           [05]: KB4509096
+                           [06]: KB4515383
+                           [07]: KB4516115
+                           [08]: KB4517245
+                           [09]: KB4520390
+                           [10]: KB4521863
+                           [11]: KB4524244
+                           [12]: KB4524569
+                           [13]: KB4528759
+                           [14]: KB4529943
+                           [15]: KB4530743
+                           [16]: KB4537759
+                           [17]: KB4538674
+                           [18]: KB4532693
+Network Card(s):           3 NIC(s) Installed.
+                           [01]: Intel(R) I350 Gigabit Network Connection
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: Realtek 8811CU Wireless LAN 802.11ac USB NIC
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.0.1
+                                 IP address(es)
+                                 [01]: 192.168.0.16
+                                 [02]: fe80::bde5:46d:8682:478e
+                                 [03]: 2607:fea8:4de0:8447:153b:4b0c:e622:ddfa
+                                 [04]: fd00:a84e:3fc4:2ad2:bde5:46d:8682:478e
+                                 [05]: 2607:fea8:4de0:8447:bde5:46d:8682:478e
+                                 [06]: 2607:fea8:4de0:8447::7
+                           [03]: Intel(R) I350 Gigabit Network Connection
+                                 Connection Name: Ethernet 5
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes

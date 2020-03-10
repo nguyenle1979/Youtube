@@ -1,0 +1,12 @@
+mvn test -Dsurefire.suiteXmlFiles=./testng.xml
+mvn -Dtest=HOME_TC_002_JUnit test
+
+create lib folder.
+pt testng.jar to that folder.
+
+set projectpath=D:\workspace\Youtube\
+set classpath=D:\workspace\Youtube\lib\*;D:\workspace\Youtube\bin\
+java org.testng.TestNG testng.xml
+
+java -cp .\lib\*;.\target\classes org.testng.TestNG testng.xml
+set classpath=.\lib\*;.\target\classes\;.\target\test-classes\

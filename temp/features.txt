@@ -1,0 +1,13 @@
+Framework
+Test case
+Failed screenshot
+Retry
+Maven
+JUnit
+TestNG
+Jenkins
+Extent report
+Excel report
+
+create file
+verify file format
