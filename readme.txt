@@ -7,6 +7,7 @@ Java (1.8)
 Maven
 JUnit/TestNG
 Jenkins
+Eclipse
 
 Image Comparison
 Extent Reports
