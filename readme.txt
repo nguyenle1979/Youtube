@@ -17,7 +17,7 @@ Advantages:
 
 Currently, it works with Windows 10 and Chrome browser.
 When a test failed, system can capture the screenshot of failed test and show it in extent report.
-When there are exption when running a test, system can re-run that test. User can set how many time to re-run a test.
+When there are exception when running a test, system can re-run that test. User can set how many time to re-run a test.
 The "ObjectMap.java" contains all web object in this project. User can add more object or modify it easily.
 Test case is an Java application in this project. Running a test is the same as running application.
 User can run test from command prompt with Maven and Jenkins.
