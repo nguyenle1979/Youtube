@@ -1,4 +1,4 @@
-This is the automation framework to test Youtube website base on Selenium automation.
+This is an automation framework to test Youtube website base on Selenium automation.
 
 Technologies used in this project:
 
